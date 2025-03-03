@@ -1,7 +1,7 @@
 <h4 align="center"><samp> Hey, I'm <strong>uzisex</strong> 👋  Welcome to my GitHub! I'm a well-known developer specializing in cutting-edge technologies. 🚀 </samp></h4>
 
 <p align="center">
-  <img width="250" src="[https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXN1cjJuajM4ejlqbWI1dmEzMjZ2NTdhZXV2bzZlZnA1MjgxdTczdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.gif)">
+  <img width="250" src="https://ibb.co/4w77WMbp">
 </p>
 
 ---
