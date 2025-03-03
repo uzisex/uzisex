@@ -1,7 +1,8 @@
 <h4 align="center"><samp> Hey, I'm <strong>uzisex</strong> 👋  Welcome to my GitHub! I'm a well-known developer specializing in cutting-edge technologies. 🚀 </samp></h4>
 
 <p align="center">
-  <img width="250" src="https://ibb.co/4w77WMbp">
+  <!-- Replace the src link with the URL of your image -->
+  <img width="250" src="https://imgur.com/a/IB7kMhK" alt="Your Image Description">
 </p>
 
 ---
