@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Replace the src link with the URL of your image -->
-  <img width="250" src="https://imgur.com/a/IB7kMhK" alt="Your Image Description">
+  <img width="250" src="https://postimg.cc/RNxSGMCR" alt="Your Image Description">
 </p>
 
 ---
